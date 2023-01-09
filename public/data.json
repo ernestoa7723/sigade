@@ -1,0 +1,2477 @@
+{
+  "Faculty": [
+    {
+      "id": 1,
+      "name": "Facultad 1",
+      "color": "",
+      "icon": ""
+    },
+    {
+      "id": 2,
+      "name": "Facultad 2",
+      "color": "",
+      "icon": ""
+    },
+    {
+      "id": 3,
+      "name": "Facultad 3",
+      "color": "",
+      "icon": ""
+    },
+    {
+      "id": 4,
+      "name": "Facultad 4",
+      "color": "",
+      "icon": ""
+    },
+    {
+      "id": 5,
+      "name": "CITEC",
+      "color": "",
+      "icon": ""
+    },
+    {
+      "id": 6,
+      "name": "FTE",
+      "color": "",
+      "icon": ""
+    }
+  ],
+
+  "User": [
+    {
+      "id": 1,
+      "firstName": "nesti",
+      "lastName": "",
+      "username": "nesti",
+      "email": "nesti@mail.com",
+      "sex": "Masculino",
+      "appointment": "Estudiante",
+      "password": "passtest"
+    },
+    {
+      "id": 2,
+      "firstName": "amarillo",
+      "lastName": "",
+      "username": "amarillo",
+      "email": "amarillo@mail.com",
+      "sex": "Femenino",
+      "appointment": "Estudiante",
+      "password": "passtest"
+    }
+  ],
+
+  "MellaGame": [
+    {
+      "id": 1,
+      "year": "2021",
+      "faculties": [
+        {
+          "id": 1,
+          "name": "Facultad 1",
+          "color": "",
+          "icon": ""
+        },
+        {
+          "id": 2,
+          "name": "Facultad 2",
+          "color": "",
+          "icon": ""
+        },
+        {
+          "id": 3,
+          "name": "Facultad 3",
+          "color": "",
+          "icon": ""
+        },
+        {
+          "id": 4,
+          "name": "Facultad 4",
+          "color": "",
+          "icon": ""
+        },
+        {
+          "id": 5,
+          "name": "CITEC",
+          "color": "",
+          "icon": ""
+        },
+        {
+          "id": 6,
+          "name": "FTE",
+          "color": "",
+          "icon": ""
+        }
+      ],
+      "results": [
+        {
+          "id": 1,
+          "mella_game": {
+            "id": 1,
+            "year": "2021"
+          },
+          "faculty": {
+            "id": 1,
+            "name": "Facultad 1",
+            "color": "",
+            "icon": ""
+          },
+          "position": 1,
+          "gold_medals": 1,
+          "silver_medals": 1,
+          "bronze_medals": 1,
+          "points": 1
+        }, {
+          "id": 2,
+          "mella_game": {
+            "id": 1,
+            "year": "2021"
+          },
+          "faculty": {
+            "id": 2,
+            "name": "Facultad 2",
+            "color": "",
+            "icon": ""
+          },
+          "position": 2,
+          "gold_medals": 2,
+          "silver_medals": 2,
+          "bronze_medals": 2,
+          "points": 2
+        }, {
+          "id": 3,
+          "mella_game": {
+            "id": 1,
+            "year": "2021"
+          },
+          "faculty": {
+            "id": 3,
+            "name": "Facultad 3",
+            "color": "",
+            "icon": ""
+          },
+          "position": 3,
+          "gold_medals": 3,
+          "silver_medals": 3,
+          "bronze_medals": 3,
+          "points": 3
+        }, {
+          "id": 4,
+          "mella_game": {
+            "id": 1,
+            "year": "2021"
+          },
+          "faculty": {
+            "id": 4,
+            "name": "Facultad 4",
+            "color": "",
+            "icon": ""
+          },
+          "position": 4,
+          "gold_medals": 4,
+          "silver_medals": 4,
+          "bronze_medals": 4,
+          "points": 4
+        }, {
+          "id": 5,
+          "mella_game": {
+            "id": 1,
+            "year": "2021"
+          },
+          "faculty": {
+            "id": 5,
+            "name": "CITEC",
+            "color": "",
+            "icon": ""
+          },
+          "position": 5,
+          "gold_medals": 5,
+          "silver_medals": 5,
+          "bronze_medals": 5,
+          "points": 5
+        }, {
+          "id": 6,
+          "mella_game": {
+            "id": 1,
+            "year": "2021"
+          },
+          "faculty": {
+            "id": 6,
+            "name": "FTE",
+            "color": "",
+            "icon": ""
+          },
+          "position": 6,
+          "gold_medals": 6,
+          "silver_medals": 6,
+          "bronze_medals": 6,
+          "points": 6
+        }
+      ]
+    }
+  ],
+
+  "Sport": [
+    {
+      "id": 1,
+      "mella_game": {
+        "id": 1,
+        "year": "2021",
+        "faculties": [
+          {
+            "id": 1,
+            "name": "Facultad 1",
+            "color": "",
+            "icon": ""
+          },
+          {
+            "id": 2,
+            "name": "Facultad 2",
+            "color": "",
+            "icon": ""
+          },
+          {
+            "id": 3,
+            "name": "Facultad 3",
+            "color": "",
+            "icon": ""
+          },
+          {
+            "id": 4,
+            "name": "Facultad 4",
+            "color": "",
+            "icon": ""
+          },
+          {
+            "id": 5,
+            "name": "CITEC",
+            "color": "",
+            "icon": ""
+          },
+          {
+            "id": 6,
+            "name": "FTE",
+            "color": "",
+            "icon": ""
+          }
+        ],
+        "results": [
+          {
+            "id": 1,
+            "mella_game": {
+              "id": 1,
+              "year": "2021"
+            },
+            "faculty": {
+              "id": 1,
+              "name": "Facultad 1",
+              "color": "",
+              "icon": ""
+            },
+            "position": 1,
+            "gold_medals": 1,
+            "silver_medals": 1,
+            "bronze_medals": 1,
+            "points": 1
+          }, {
+            "id": 2,
+            "mella_game": {
+              "id": 1,
+              "year": "2021"
+            },
+            "faculty": {
+              "id": 2,
+              "name": "Facultad 2",
+              "color": "",
+              "icon": ""
+            },
+            "position": 2,
+            "gold_medals": 2,
+            "silver_medals": 2,
+            "bronze_medals": 2,
+            "points": 2
+          }, {
+            "id": 3,
+            "mella_game": {
+              "id": 1,
+              "year": "2021"
+            },
+            "faculty": {
+              "id": 3,
+              "name": "Facultad 3",
+              "color": "",
+              "icon": ""
+            },
+            "position": 3,
+            "gold_medals": 3,
+            "silver_medals": 3,
+            "bronze_medals": 3,
+            "points": 3
+          }, {
+            "id": 4,
+            "mella_game": {
+              "id": 1,
+              "year": "2021"
+            },
+            "faculty": {
+              "id": 4,
+              "name": "Facultad 4",
+              "color": "",
+              "icon": ""
+            },
+            "position": 4,
+            "gold_medals": 4,
+            "silver_medals": 4,
+            "bronze_medals": 4,
+            "points": 4
+          }, {
+            "id": 5,
+            "mella_game": {
+              "id": 1,
+              "year": "2021"
+            },
+            "faculty": {
+              "id": 5,
+              "name": "CITEC",
+              "color": "",
+              "icon": ""
+            },
+            "position": 5,
+            "gold_medals": 5,
+            "silver_medals": 5,
+            "bronze_medals": 5,
+            "points": 5
+          }, {
+            "id": 6,
+            "mella_game": {
+              "id": 1,
+              "year": "2021"
+            },
+            "faculty": {
+              "id": 6,
+              "name": "FTE",
+              "color": "",
+              "icon": ""
+            },
+            "position": 6,
+            "gold_medals": 6,
+            "silver_medals": 6,
+            "bronze_medals": 6,
+            "points": 6
+          }
+        ]
+      },
+      "name": "Futsal",
+      "modality": "Equipo Masculino",
+      "results": [
+        {
+          "id": 1,
+          "sport": {
+            "id": 1,
+            "mella_game": {
+              "id": 1,
+              "year": "2021",
+              "faculties": [
+                {
+                  "id": 1,
+                  "name": "Facultad 1",
+                  "color": "",
+                  "icon": ""
+                },
+                {
+                  "id": 2,
+                  "name": "Facultad 2",
+                  "color": "",
+                  "icon": ""
+                },
+                {
+                  "id": 3,
+                  "name": "Facultad 3",
+                  "color": "",
+                  "icon": ""
+                },
+                {
+                  "id": 4,
+                  "name": "Facultad 4",
+                  "color": "",
+                  "icon": ""
+                },
+                {
+                  "id": 5,
+                  "name": "CITEC",
+                  "color": "",
+                  "icon": ""
+                },
+                {
+                  "id": 6,
+                  "name": "FTE",
+                  "color": "",
+                  "icon": ""
+                }
+              ],
+              "results": [
+                {
+                  "id": 1,
+                  "mella_game": {
+                    "id": 1,
+                    "year": "2021"
+                  },
+                  "faculty": {
+                    "id": 1,
+                    "name": "Facultad 1",
+                    "color": "",
+                    "icon": ""
+                  },
+                  "position": 1,
+                  "gold_medals": 1,
+                  "silver_medals": 1,
+                  "bronze_medals": 1,
+                  "points": 1
+                }, {
+                  "id": 2,
+                  "mella_game": {
+                    "id": 1,
+                    "year": "2021"
+                  },
+                  "faculty": {
+                    "id": 2,
+                    "name": "Facultad 2",
+                    "color": "",
+                    "icon": ""
+                  },
+                  "position": 2,
+                  "gold_medals": 2,
+                  "silver_medals": 2,
+                  "bronze_medals": 2,
+                  "points": 2
+                }, {
+                  "id": 3,
+                  "mella_game": {
+                    "id": 1,
+                    "year": "2021"
+                  },
+                  "faculty": {
+                    "id": 3,
+                    "name": "Facultad 3",
+                    "color": "",
+                    "icon": ""
+                  },
+                  "position": 3,
+                  "gold_medals": 3,
+                  "silver_medals": 3,
+                  "bronze_medals": 3,
+                  "points": 3
+                }, {
+                  "id": 4,
+                  "mella_game": {
+                    "id": 1,
+                    "year": "2021"
+                  },
+                  "faculty": {
+                    "id": 4,
+                    "name": "Facultad 4",
+                    "color": "",
+                    "icon": ""
+                  },
+                  "position": 4,
+                  "gold_medals": 4,
+                  "silver_medals": 4,
+                  "bronze_medals": 4,
+                  "points": 4
+                }, {
+                  "id": 5,
+                  "mella_game": {
+                    "id": 1,
+                    "year": "2021"
+                  },
+                  "faculty": {
+                    "id": 5,
+                    "name": "CITEC",
+                    "color": "",
+                    "icon": ""
+                  },
+                  "position": 5,
+                  "gold_medals": 5,
+                  "silver_medals": 5,
+                  "bronze_medals": 5,
+                  "points": 5
+                }, {
+                  "id": 6,
+                  "mella_game": {
+                    "id": 1,
+                    "year": "2021"
+                  },
+                  "faculty": {
+                    "id": 6,
+                    "name": "FTE",
+                    "color": "",
+                    "icon": ""
+                  },
+                  "position": 6,
+                  "gold_medals": 6,
+                  "silver_medals": 6,
+                  "bronze_medals": 6,
+                  "points": 6
+                }
+              ]
+            },
+            "name": "Futsal",
+            "modality": "Equipo Masculino"
+          },
+          "faculty": {
+            "id": 1,
+            "name": "Facultad 1",
+            "color": "",
+            "icon": ""
+          },
+          "position": 1
+        },
+        {
+          "id": 2,
+          "sport": {
+            "id": 1,
+            "mella_game": {
+              "id": 1,
+              "year": "2021",
+              "faculties": [
+                {
+                  "id": 1,
+                  "name": "Facultad 1",
+                  "color": "",
+                  "icon": ""
+                },
+                {
+                  "id": 2,
+                  "name": "Facultad 2",
+                  "color": "",
+                  "icon": ""
+                },
+                {
+                  "id": 3,
+                  "name": "Facultad 3",
+                  "color": "",
+                  "icon": ""
+                },
+                {
+                  "id": 4,
+                  "name": "Facultad 4",
+                  "color": "",
+                  "icon": ""
+                },
+                {
+                  "id": 5,
+                  "name": "CITEC",
+                  "color": "",
+                  "icon": ""
+                },
+                {
+                  "id": 6,
+                  "name": "FTE",
+                  "color": "",
+                  "icon": ""
+                }
+              ],
+              "results": [
+                {
+                  "id": 1,
+                  "mella_game": {
+                    "id": 1,
+                    "year": "2021"
+                  },
+                  "faculty": {
+                    "id": 1,
+                    "name": "Facultad 1",
+                    "color": "",
+                    "icon": ""
+                  },
+                  "position": 1,
+                  "gold_medals": 1,
+                  "silver_medals": 1,
+                  "bronze_medals": 1,
+                  "points": 1
+                }, {
+                  "id": 2,
+                  "mella_game": {
+                    "id": 1,
+                    "year": "2021"
+                  },
+                  "faculty": {
+                    "id": 2,
+                    "name": "Facultad 2",
+                    "color": "",
+                    "icon": ""
+                  },
+                  "position": 2,
+                  "gold_medals": 2,
+                  "silver_medals": 2,
+                  "bronze_medals": 2,
+                  "points": 2
+                }, {
+                  "id": 3,
+                  "mella_game": {
+                    "id": 1,
+                    "year": "2021"
+                  },
+                  "faculty": {
+                    "id": 3,
+                    "name": "Facultad 3",
+                    "color": "",
+                    "icon": ""
+                  },
+                  "position": 3,
+                  "gold_medals": 3,
+                  "silver_medals": 3,
+                  "bronze_medals": 3,
+                  "points": 3
+                }, {
+                  "id": 4,
+                  "mella_game": {
+                    "id": 1,
+                    "year": "2021"
+                  },
+                  "faculty": {
+                    "id": 4,
+                    "name": "Facultad 4",
+                    "color": "",
+                    "icon": ""
+                  },
+                  "position": 4,
+                  "gold_medals": 4,
+                  "silver_medals": 4,
+                  "bronze_medals": 4,
+                  "points": 4
+                }, {
+                  "id": 5,
+                  "mella_game": {
+                    "id": 1,
+                    "year": "2021"
+                  },
+                  "faculty": {
+                    "id": 5,
+                    "name": "CITEC",
+                    "color": "",
+                    "icon": ""
+                  },
+                  "position": 5,
+                  "gold_medals": 5,
+                  "silver_medals": 5,
+                  "bronze_medals": 5,
+                  "points": 5
+                }, {
+                  "id": 6,
+                  "mella_game": {
+                    "id": 1,
+                    "year": "2021"
+                  },
+                  "faculty": {
+                    "id": 6,
+                    "name": "FTE",
+                    "color": "",
+                    "icon": ""
+                  },
+                  "position": 6,
+                  "gold_medals": 6,
+                  "silver_medals": 6,
+                  "bronze_medals": 6,
+                  "points": 6
+                }
+              ]
+            },
+            "name": "Futsal",
+            "modality": "Equipo Masculino"
+          },
+          "faculty": {
+            "id": 2,
+            "name": "Facultad 2",
+            "color": "",
+            "icon": ""
+          },
+          "position": 2
+        },
+        {
+          "id": 3,
+          "sport": {
+            "id": 1,
+            "mella_game": {
+              "id": 1,
+              "year": "2021",
+              "faculties": [
+                {
+                  "id": 1,
+                  "name": "Facultad 1",
+                  "color": "",
+                  "icon": ""
+                },
+                {
+                  "id": 2,
+                  "name": "Facultad 2",
+                  "color": "",
+                  "icon": ""
+                },
+                {
+                  "id": 3,
+                  "name": "Facultad 3",
+                  "color": "",
+                  "icon": ""
+                },
+                {
+                  "id": 4,
+                  "name": "Facultad 4",
+                  "color": "",
+                  "icon": ""
+                },
+                {
+                  "id": 5,
+                  "name": "CITEC",
+                  "color": "",
+                  "icon": ""
+                },
+                {
+                  "id": 6,
+                  "name": "FTE",
+                  "color": "",
+                  "icon": ""
+                }
+              ],
+              "results": [
+                {
+                  "id": 1,
+                  "mella_game": {
+                    "id": 1,
+                    "year": "2021"
+                  },
+                  "faculty": {
+                    "id": 1,
+                    "name": "Facultad 1",
+                    "color": "",
+                    "icon": ""
+                  },
+                  "position": 1,
+                  "gold_medals": 1,
+                  "silver_medals": 1,
+                  "bronze_medals": 1,
+                  "points": 1
+                }, {
+                  "id": 2,
+                  "mella_game": {
+                    "id": 1,
+                    "year": "2021"
+                  },
+                  "faculty": {
+                    "id": 2,
+                    "name": "Facultad 2",
+                    "color": "",
+                    "icon": ""
+                  },
+                  "position": 2,
+                  "gold_medals": 2,
+                  "silver_medals": 2,
+                  "bronze_medals": 2,
+                  "points": 2
+                }, {
+                  "id": 3,
+                  "mella_game": {
+                    "id": 1,
+                    "year": "2021"
+                  },
+                  "faculty": {
+                    "id": 3,
+                    "name": "Facultad 3",
+                    "color": "",
+                    "icon": ""
+                  },
+                  "position": 3,
+                  "gold_medals": 3,
+                  "silver_medals": 3,
+                  "bronze_medals": 3,
+                  "points": 3
+                }, {
+                  "id": 4,
+                  "mella_game": {
+                    "id": 1,
+                    "year": "2021"
+                  },
+                  "faculty": {
+                    "id": 4,
+                    "name": "Facultad 4",
+                    "color": "",
+                    "icon": ""
+                  },
+                  "position": 4,
+                  "gold_medals": 4,
+                  "silver_medals": 4,
+                  "bronze_medals": 4,
+                  "points": 4
+                }, {
+                  "id": 5,
+                  "mella_game": {
+                    "id": 1,
+                    "year": "2021"
+                  },
+                  "faculty": {
+                    "id": 5,
+                    "name": "CITEC",
+                    "color": "",
+                    "icon": ""
+                  },
+                  "position": 5,
+                  "gold_medals": 5,
+                  "silver_medals": 5,
+                  "bronze_medals": 5,
+                  "points": 5
+                }, {
+                  "id": 6,
+                  "mella_game": {
+                    "id": 1,
+                    "year": "2021"
+                  },
+                  "faculty": {
+                    "id": 6,
+                    "name": "FTE",
+                    "color": "",
+                    "icon": ""
+                  },
+                  "position": 6,
+                  "gold_medals": 6,
+                  "silver_medals": 6,
+                  "bronze_medals": 6,
+                  "points": 6
+                }
+              ]
+            },
+            "name": "Futsal",
+            "modality": "Equipo Masculino"
+          },
+          "faculty": {
+            "id": 3,
+            "name": "Facultad 3",
+            "color": "",
+            "icon": ""
+          },
+          "position": 3
+        },
+        {
+          "id": 4,
+          "sport": {
+            "id": 1,
+            "mella_game": {
+              "id": 1,
+              "year": "2021",
+              "faculties": [
+                {
+                  "id": 1,
+                  "name": "Facultad 1",
+                  "color": "",
+                  "icon": ""
+                },
+                {
+                  "id": 2,
+                  "name": "Facultad 2",
+                  "color": "",
+                  "icon": ""
+                },
+                {
+                  "id": 3,
+                  "name": "Facultad 3",
+                  "color": "",
+                  "icon": ""
+                },
+                {
+                  "id": 4,
+                  "name": "Facultad 4",
+                  "color": "",
+                  "icon": ""
+                },
+                {
+                  "id": 5,
+                  "name": "CITEC",
+                  "color": "",
+                  "icon": ""
+                },
+                {
+                  "id": 6,
+                  "name": "FTE",
+                  "color": "",
+                  "icon": ""
+                }
+              ],
+              "results": [
+                {
+                  "id": 1,
+                  "mella_game": {
+                    "id": 1,
+                    "year": "2021"
+                  },
+                  "faculty": {
+                    "id": 1,
+                    "name": "Facultad 1",
+                    "color": "",
+                    "icon": ""
+                  },
+                  "position": 1,
+                  "gold_medals": 1,
+                  "silver_medals": 1,
+                  "bronze_medals": 1,
+                  "points": 1
+                }, {
+                  "id": 2,
+                  "mella_game": {
+                    "id": 1,
+                    "year": "2021"
+                  },
+                  "faculty": {
+                    "id": 2,
+                    "name": "Facultad 2",
+                    "color": "",
+                    "icon": ""
+                  },
+                  "position": 2,
+                  "gold_medals": 2,
+                  "silver_medals": 2,
+                  "bronze_medals": 2,
+                  "points": 2
+                }, {
+                  "id": 3,
+                  "mella_game": {
+                    "id": 1,
+                    "year": "2021"
+                  },
+                  "faculty": {
+                    "id": 3,
+                    "name": "Facultad 3",
+                    "color": "",
+                    "icon": ""
+                  },
+                  "position": 3,
+                  "gold_medals": 3,
+                  "silver_medals": 3,
+                  "bronze_medals": 3,
+                  "points": 3
+                }, {
+                  "id": 4,
+                  "mella_game": {
+                    "id": 1,
+                    "year": "2021"
+                  },
+                  "faculty": {
+                    "id": 4,
+                    "name": "Facultad 4",
+                    "color": "",
+                    "icon": ""
+                  },
+                  "position": 4,
+                  "gold_medals": 4,
+                  "silver_medals": 4,
+                  "bronze_medals": 4,
+                  "points": 4
+                }, {
+                  "id": 5,
+                  "mella_game": {
+                    "id": 1,
+                    "year": "2021"
+                  },
+                  "faculty": {
+                    "id": 5,
+                    "name": "CITEC",
+                    "color": "",
+                    "icon": ""
+                  },
+                  "position": 5,
+                  "gold_medals": 5,
+                  "silver_medals": 5,
+                  "bronze_medals": 5,
+                  "points": 5
+                }, {
+                  "id": 6,
+                  "mella_game": {
+                    "id": 1,
+                    "year": "2021"
+                  },
+                  "faculty": {
+                    "id": 6,
+                    "name": "FTE",
+                    "color": "",
+                    "icon": ""
+                  },
+                  "position": 6,
+                  "gold_medals": 6,
+                  "silver_medals": 6,
+                  "bronze_medals": 6,
+                  "points": 6
+                }
+              ]
+            },
+            "name": "Futsal",
+            "modality": "Equipo Masculino"
+          },
+          "faculty": {
+            "id": 4,
+            "name": "Facultad 4",
+            "color": "",
+            "icon": ""
+          },
+          "position": 4
+        },
+        {
+          "id": 5,
+          "sport": {
+            "id": 1,
+            "mella_game": {
+              "id": 1,
+              "year": "2021",
+              "faculties": [
+                {
+                  "id": 1,
+                  "name": "Facultad 1",
+                  "color": "",
+                  "icon": ""
+                },
+                {
+                  "id": 2,
+                  "name": "Facultad 2",
+                  "color": "",
+                  "icon": ""
+                },
+                {
+                  "id": 3,
+                  "name": "Facultad 3",
+                  "color": "",
+                  "icon": ""
+                },
+                {
+                  "id": 4,
+                  "name": "Facultad 4",
+                  "color": "",
+                  "icon": ""
+                },
+                {
+                  "id": 5,
+                  "name": "CITEC",
+                  "color": "",
+                  "icon": ""
+                },
+                {
+                  "id": 6,
+                  "name": "FTE",
+                  "color": "",
+                  "icon": ""
+                }
+              ],
+              "results": [
+                {
+                  "id": 1,
+                  "mella_game": {
+                    "id": 1,
+                    "year": "2021"
+                  },
+                  "faculty": {
+                    "id": 1,
+                    "name": "Facultad 1",
+                    "color": "",
+                    "icon": ""
+                  },
+                  "position": 1,
+                  "gold_medals": 1,
+                  "silver_medals": 1,
+                  "bronze_medals": 1,
+                  "points": 1
+                }, {
+                  "id": 2,
+                  "mella_game": {
+                    "id": 1,
+                    "year": "2021"
+                  },
+                  "faculty": {
+                    "id": 2,
+                    "name": "Facultad 2",
+                    "color": "",
+                    "icon": ""
+                  },
+                  "position": 2,
+                  "gold_medals": 2,
+                  "silver_medals": 2,
+                  "bronze_medals": 2,
+                  "points": 2
+                }, {
+                  "id": 3,
+                  "mella_game": {
+                    "id": 1,
+                    "year": "2021"
+                  },
+                  "faculty": {
+                    "id": 3,
+                    "name": "Facultad 3",
+                    "color": "",
+                    "icon": ""
+                  },
+                  "position": 3,
+                  "gold_medals": 3,
+                  "silver_medals": 3,
+                  "bronze_medals": 3,
+                  "points": 3
+                }, {
+                  "id": 4,
+                  "mella_game": {
+                    "id": 1,
+                    "year": "2021"
+                  },
+                  "faculty": {
+                    "id": 4,
+                    "name": "Facultad 4",
+                    "color": "",
+                    "icon": ""
+                  },
+                  "position": 4,
+                  "gold_medals": 4,
+                  "silver_medals": 4,
+                  "bronze_medals": 4,
+                  "points": 4
+                }, {
+                  "id": 5,
+                  "mella_game": {
+                    "id": 1,
+                    "year": "2021"
+                  },
+                  "faculty": {
+                    "id": 5,
+                    "name": "CITEC",
+                    "color": "",
+                    "icon": ""
+                  },
+                  "position": 5,
+                  "gold_medals": 5,
+                  "silver_medals": 5,
+                  "bronze_medals": 5,
+                  "points": 5
+                }, {
+                  "id": 6,
+                  "mella_game": {
+                    "id": 1,
+                    "year": "2021"
+                  },
+                  "faculty": {
+                    "id": 6,
+                    "name": "FTE",
+                    "color": "",
+                    "icon": ""
+                  },
+                  "position": 6,
+                  "gold_medals": 6,
+                  "silver_medals": 6,
+                  "bronze_medals": 6,
+                  "points": 6
+                }
+              ]
+            },
+            "name": "Futsal",
+            "modality": "Equipo Masculino"
+          },
+          "faculty": {
+            "id": 5,
+            "name": "CITEC",
+            "color": "",
+            "icon": ""
+          },
+          "position": 5
+        },
+        {
+          "id": 6,
+          "sport": {
+            "id": 1,
+            "mella_game": {
+              "id": 1,
+              "year": "2021",
+              "faculties": [
+                {
+                  "id": 1,
+                  "name": "Facultad 1",
+                  "color": "",
+                  "icon": ""
+                },
+                {
+                  "id": 2,
+                  "name": "Facultad 2",
+                  "color": "",
+                  "icon": ""
+                },
+                {
+                  "id": 3,
+                  "name": "Facultad 3",
+                  "color": "",
+                  "icon": ""
+                },
+                {
+                  "id": 4,
+                  "name": "Facultad 4",
+                  "color": "",
+                  "icon": ""
+                },
+                {
+                  "id": 5,
+                  "name": "CITEC",
+                  "color": "",
+                  "icon": ""
+                },
+                {
+                  "id": 6,
+                  "name": "FTE",
+                  "color": "",
+                  "icon": ""
+                }
+              ],
+              "results": [
+                {
+                  "id": 1,
+                  "mella_game": {
+                    "id": 1,
+                    "year": "2021"
+                  },
+                  "faculty": {
+                    "id": 1,
+                    "name": "Facultad 1",
+                    "color": "",
+                    "icon": ""
+                  },
+                  "position": 1,
+                  "gold_medals": 1,
+                  "silver_medals": 1,
+                  "bronze_medals": 1,
+                  "points": 1
+                }, {
+                  "id": 2,
+                  "mella_game": {
+                    "id": 1,
+                    "year": "2021"
+                  },
+                  "faculty": {
+                    "id": 2,
+                    "name": "Facultad 2",
+                    "color": "",
+                    "icon": ""
+                  },
+                  "position": 2,
+                  "gold_medals": 2,
+                  "silver_medals": 2,
+                  "bronze_medals": 2,
+                  "points": 2
+                }, {
+                  "id": 3,
+                  "mella_game": {
+                    "id": 1,
+                    "year": "2021"
+                  },
+                  "faculty": {
+                    "id": 3,
+                    "name": "Facultad 3",
+                    "color": "",
+                    "icon": ""
+                  },
+                  "position": 3,
+                  "gold_medals": 3,
+                  "silver_medals": 3,
+                  "bronze_medals": 3,
+                  "points": 3
+                }, {
+                  "id": 4,
+                  "mella_game": {
+                    "id": 1,
+                    "year": "2021"
+                  },
+                  "faculty": {
+                    "id": 4,
+                    "name": "Facultad 4",
+                    "color": "",
+                    "icon": ""
+                  },
+                  "position": 4,
+                  "gold_medals": 4,
+                  "silver_medals": 4,
+                  "bronze_medals": 4,
+                  "points": 4
+                }, {
+                  "id": 5,
+                  "mella_game": {
+                    "id": 1,
+                    "year": "2021"
+                  },
+                  "faculty": {
+                    "id": 5,
+                    "name": "CITEC",
+                    "color": "",
+                    "icon": ""
+                  },
+                  "position": 5,
+                  "gold_medals": 5,
+                  "silver_medals": 5,
+                  "bronze_medals": 5,
+                  "points": 5
+                }, {
+                  "id": 6,
+                  "mella_game": {
+                    "id": 1,
+                    "year": "2021"
+                  },
+                  "faculty": {
+                    "id": 6,
+                    "name": "FTE",
+                    "color": "",
+                    "icon": ""
+                  },
+                  "position": 6,
+                  "gold_medals": 6,
+                  "silver_medals": 6,
+                  "bronze_medals": 6,
+                  "points": 6
+                }
+              ]
+            },
+            "name": "Futsal",
+            "modality": "Equipo Masculino"
+          },
+          "faculty": {
+            "id": 6,
+            "name": "FTE",
+            "color": "",
+            "icon": ""
+          },
+          "position": 6
+        }
+      ]
+    }
+  ],
+
+  "Event": [
+    {
+      "id": 1,
+      "sport": {
+        "id": 1,
+        "mella_game": {
+          "id": 1,
+          "year": "2021",
+          "faculties": [
+            {
+              "id": 1,
+              "name": "Facultad 1",
+              "color": "",
+              "icon": ""
+            },
+            {
+              "id": 2,
+              "name": "Facultad 2",
+              "color": "",
+              "icon": ""
+            },
+            {
+              "id": 3,
+              "name": "Facultad 3",
+              "color": "",
+              "icon": ""
+            },
+            {
+              "id": 4,
+              "name": "Facultad 4",
+              "color": "",
+              "icon": ""
+            },
+            {
+              "id": 5,
+              "name": "CITEC",
+              "color": "",
+              "icon": ""
+            },
+            {
+              "id": 6,
+              "name": "FTE",
+              "color": "",
+              "icon": ""
+            }
+          ],
+          "results": [
+            {
+              "id": 1,
+              "mella_game": {
+                "id": 1,
+                "year": "2021"
+              },
+              "faculty": {
+                "id": 1,
+                "name": "Facultad 1",
+                "color": "",
+                "icon": ""
+              },
+              "position": 1,
+              "gold_medals": 1,
+              "silver_medals": 1,
+              "bronze_medals": 1,
+              "points": 1
+            }, {
+              "id": 2,
+              "mella_game": {
+                "id": 1,
+                "year": "2021"
+              },
+              "faculty": {
+                "id": 2,
+                "name": "Facultad 2",
+                "color": "",
+                "icon": ""
+              },
+              "position": 2,
+              "gold_medals": 2,
+              "silver_medals": 2,
+              "bronze_medals": 2,
+              "points": 2
+            }, {
+              "id": 3,
+              "mella_game": {
+                "id": 1,
+                "year": "2021"
+              },
+              "faculty": {
+                "id": 3,
+                "name": "Facultad 3",
+                "color": "",
+                "icon": ""
+              },
+              "position": 3,
+              "gold_medals": 3,
+              "silver_medals": 3,
+              "bronze_medals": 3,
+              "points": 3
+            }, {
+              "id": 4,
+              "mella_game": {
+                "id": 1,
+                "year": "2021"
+              },
+              "faculty": {
+                "id": 4,
+                "name": "Facultad 4",
+                "color": "",
+                "icon": ""
+              },
+              "position": 4,
+              "gold_medals": 4,
+              "silver_medals": 4,
+              "bronze_medals": 4,
+              "points": 4
+            }, {
+              "id": 5,
+              "mella_game": {
+                "id": 1,
+                "year": "2021"
+              },
+              "faculty": {
+                "id": 5,
+                "name": "CITEC",
+                "color": "",
+                "icon": ""
+              },
+              "position": 5,
+              "gold_medals": 5,
+              "silver_medals": 5,
+              "bronze_medals": 5,
+              "points": 5
+            }, {
+              "id": 6,
+              "mella_game": {
+                "id": 1,
+                "year": "2021"
+              },
+              "faculty": {
+                "id": 6,
+                "name": "FTE",
+                "color": "",
+                "icon": ""
+              },
+              "position": 6,
+              "gold_medals": 6,
+              "silver_medals": 6,
+              "bronze_medals": 6,
+              "points": 6
+            }
+          ]
+        },
+        "name": "Futsal",
+        "modality": "Equipo Masculino",
+        "results": [
+          {
+            "id": 1,
+            "sport": {
+              "id": 1,
+              "mella_game": {
+                "id": 1,
+                "year": "2021",
+                "faculties": [
+                  {
+                    "id": 1,
+                    "name": "Facultad 1",
+                    "color": "",
+                    "icon": ""
+                  },
+                  {
+                    "id": 2,
+                    "name": "Facultad 2",
+                    "color": "",
+                    "icon": ""
+                  },
+                  {
+                    "id": 3,
+                    "name": "Facultad 3",
+                    "color": "",
+                    "icon": ""
+                  },
+                  {
+                    "id": 4,
+                    "name": "Facultad 4",
+                    "color": "",
+                    "icon": ""
+                  },
+                  {
+                    "id": 5,
+                    "name": "CITEC",
+                    "color": "",
+                    "icon": ""
+                  },
+                  {
+                    "id": 6,
+                    "name": "FTE",
+                    "color": "",
+                    "icon": ""
+                  }
+                ],
+                "results": [
+                  {
+                    "id": 1,
+                    "mella_game": {
+                      "id": 1,
+                      "year": "2021"
+                    },
+                    "faculty": {
+                      "id": 1,
+                      "name": "Facultad 1",
+                      "color": "",
+                      "icon": ""
+                    },
+                    "position": 1,
+                    "gold_medals": 1,
+                    "silver_medals": 1,
+                    "bronze_medals": 1,
+                    "points": 1
+                  }, {
+                    "id": 2,
+                    "mella_game": {
+                      "id": 1,
+                      "year": "2021"
+                    },
+                    "faculty": {
+                      "id": 2,
+                      "name": "Facultad 2",
+                      "color": "",
+                      "icon": ""
+                    },
+                    "position": 2,
+                    "gold_medals": 2,
+                    "silver_medals": 2,
+                    "bronze_medals": 2,
+                    "points": 2
+                  }, {
+                    "id": 3,
+                    "mella_game": {
+                      "id": 1,
+                      "year": "2021"
+                    },
+                    "faculty": {
+                      "id": 3,
+                      "name": "Facultad 3",
+                      "color": "",
+                      "icon": ""
+                    },
+                    "position": 3,
+                    "gold_medals": 3,
+                    "silver_medals": 3,
+                    "bronze_medals": 3,
+                    "points": 3
+                  }, {
+                    "id": 4,
+                    "mella_game": {
+                      "id": 1,
+                      "year": "2021"
+                    },
+                    "faculty": {
+                      "id": 4,
+                      "name": "Facultad 4",
+                      "color": "",
+                      "icon": ""
+                    },
+                    "position": 4,
+                    "gold_medals": 4,
+                    "silver_medals": 4,
+                    "bronze_medals": 4,
+                    "points": 4
+                  }, {
+                    "id": 5,
+                    "mella_game": {
+                      "id": 1,
+                      "year": "2021"
+                    },
+                    "faculty": {
+                      "id": 5,
+                      "name": "CITEC",
+                      "color": "",
+                      "icon": ""
+                    },
+                    "position": 5,
+                    "gold_medals": 5,
+                    "silver_medals": 5,
+                    "bronze_medals": 5,
+                    "points": 5
+                  }, {
+                    "id": 6,
+                    "mella_game": {
+                      "id": 1,
+                      "year": "2021"
+                    },
+                    "faculty": {
+                      "id": 6,
+                      "name": "FTE",
+                      "color": "",
+                      "icon": ""
+                    },
+                    "position": 6,
+                    "gold_medals": 6,
+                    "silver_medals": 6,
+                    "bronze_medals": 6,
+                    "points": 6
+                  }
+                ]
+              },
+              "name": "Futsal",
+              "modality": "Equipo Masculino"
+            },
+            "faculty": {
+              "id": 1,
+              "name": "Facultad 1",
+              "color": "",
+              "icon": ""
+            },
+            "position": 1
+          },
+          {
+            "id": 2,
+            "sport": {
+              "id": 1,
+              "mella_game": {
+                "id": 1,
+                "year": "2021",
+                "faculties": [
+                  {
+                    "id": 1,
+                    "name": "Facultad 1",
+                    "color": "",
+                    "icon": ""
+                  },
+                  {
+                    "id": 2,
+                    "name": "Facultad 2",
+                    "color": "",
+                    "icon": ""
+                  },
+                  {
+                    "id": 3,
+                    "name": "Facultad 3",
+                    "color": "",
+                    "icon": ""
+                  },
+                  {
+                    "id": 4,
+                    "name": "Facultad 4",
+                    "color": "",
+                    "icon": ""
+                  },
+                  {
+                    "id": 5,
+                    "name": "CITEC",
+                    "color": "",
+                    "icon": ""
+                  },
+                  {
+                    "id": 6,
+                    "name": "FTE",
+                    "color": "",
+                    "icon": ""
+                  }
+                ],
+                "results": [
+                  {
+                    "id": 1,
+                    "mella_game": {
+                      "id": 1,
+                      "year": "2021"
+                    },
+                    "faculty": {
+                      "id": 1,
+                      "name": "Facultad 1",
+                      "color": "",
+                      "icon": ""
+                    },
+                    "position": 1,
+                    "gold_medals": 1,
+                    "silver_medals": 1,
+                    "bronze_medals": 1,
+                    "points": 1
+                  }, {
+                    "id": 2,
+                    "mella_game": {
+                      "id": 1,
+                      "year": "2021"
+                    },
+                    "faculty": {
+                      "id": 2,
+                      "name": "Facultad 2",
+                      "color": "",
+                      "icon": ""
+                    },
+                    "position": 2,
+                    "gold_medals": 2,
+                    "silver_medals": 2,
+                    "bronze_medals": 2,
+                    "points": 2
+                  }, {
+                    "id": 3,
+                    "mella_game": {
+                      "id": 1,
+                      "year": "2021"
+                    },
+                    "faculty": {
+                      "id": 3,
+                      "name": "Facultad 3",
+                      "color": "",
+                      "icon": ""
+                    },
+                    "position": 3,
+                    "gold_medals": 3,
+                    "silver_medals": 3,
+                    "bronze_medals": 3,
+                    "points": 3
+                  }, {
+                    "id": 4,
+                    "mella_game": {
+                      "id": 1,
+                      "year": "2021"
+                    },
+                    "faculty": {
+                      "id": 4,
+                      "name": "Facultad 4",
+                      "color": "",
+                      "icon": ""
+                    },
+                    "position": 4,
+                    "gold_medals": 4,
+                    "silver_medals": 4,
+                    "bronze_medals": 4,
+                    "points": 4
+                  }, {
+                    "id": 5,
+                    "mella_game": {
+                      "id": 1,
+                      "year": "2021"
+                    },
+                    "faculty": {
+                      "id": 5,
+                      "name": "CITEC",
+                      "color": "",
+                      "icon": ""
+                    },
+                    "position": 5,
+                    "gold_medals": 5,
+                    "silver_medals": 5,
+                    "bronze_medals": 5,
+                    "points": 5
+                  }, {
+                    "id": 6,
+                    "mella_game": {
+                      "id": 1,
+                      "year": "2021"
+                    },
+                    "faculty": {
+                      "id": 6,
+                      "name": "FTE",
+                      "color": "",
+                      "icon": ""
+                    },
+                    "position": 6,
+                    "gold_medals": 6,
+                    "silver_medals": 6,
+                    "bronze_medals": 6,
+                    "points": 6
+                  }
+                ]
+              },
+              "name": "Futsal",
+              "modality": "Equipo Masculino"
+            },
+            "faculty": {
+              "id": 2,
+              "name": "Facultad 2",
+              "color": "",
+              "icon": ""
+            },
+            "position": 2
+          },
+          {
+            "id": 3,
+            "sport": {
+              "id": 1,
+              "mella_game": {
+                "id": 1,
+                "year": "2021",
+                "faculties": [
+                  {
+                    "id": 1,
+                    "name": "Facultad 1",
+                    "color": "",
+                    "icon": ""
+                  },
+                  {
+                    "id": 2,
+                    "name": "Facultad 2",
+                    "color": "",
+                    "icon": ""
+                  },
+                  {
+                    "id": 3,
+                    "name": "Facultad 3",
+                    "color": "",
+                    "icon": ""
+                  },
+                  {
+                    "id": 4,
+                    "name": "Facultad 4",
+                    "color": "",
+                    "icon": ""
+                  },
+                  {
+                    "id": 5,
+                    "name": "CITEC",
+                    "color": "",
+                    "icon": ""
+                  },
+                  {
+                    "id": 6,
+                    "name": "FTE",
+                    "color": "",
+                    "icon": ""
+                  }
+                ],
+                "results": [
+                  {
+                    "id": 1,
+                    "mella_game": {
+                      "id": 1,
+                      "year": "2021"
+                    },
+                    "faculty": {
+                      "id": 1,
+                      "name": "Facultad 1",
+                      "color": "",
+                      "icon": ""
+                    },
+                    "position": 1,
+                    "gold_medals": 1,
+                    "silver_medals": 1,
+                    "bronze_medals": 1,
+                    "points": 1
+                  }, {
+                    "id": 2,
+                    "mella_game": {
+                      "id": 1,
+                      "year": "2021"
+                    },
+                    "faculty": {
+                      "id": 2,
+                      "name": "Facultad 2",
+                      "color": "",
+                      "icon": ""
+                    },
+                    "position": 2,
+                    "gold_medals": 2,
+                    "silver_medals": 2,
+                    "bronze_medals": 2,
+                    "points": 2
+                  }, {
+                    "id": 3,
+                    "mella_game": {
+                      "id": 1,
+                      "year": "2021"
+                    },
+                    "faculty": {
+                      "id": 3,
+                      "name": "Facultad 3",
+                      "color": "",
+                      "icon": ""
+                    },
+                    "position": 3,
+                    "gold_medals": 3,
+                    "silver_medals": 3,
+                    "bronze_medals": 3,
+                    "points": 3
+                  }, {
+                    "id": 4,
+                    "mella_game": {
+                      "id": 1,
+                      "year": "2021"
+                    },
+                    "faculty": {
+                      "id": 4,
+                      "name": "Facultad 4",
+                      "color": "",
+                      "icon": ""
+                    },
+                    "position": 4,
+                    "gold_medals": 4,
+                    "silver_medals": 4,
+                    "bronze_medals": 4,
+                    "points": 4
+                  }, {
+                    "id": 5,
+                    "mella_game": {
+                      "id": 1,
+                      "year": "2021"
+                    },
+                    "faculty": {
+                      "id": 5,
+                      "name": "CITEC",
+                      "color": "",
+                      "icon": ""
+                    },
+                    "position": 5,
+                    "gold_medals": 5,
+                    "silver_medals": 5,
+                    "bronze_medals": 5,
+                    "points": 5
+                  }, {
+                    "id": 6,
+                    "mella_game": {
+                      "id": 1,
+                      "year": "2021"
+                    },
+                    "faculty": {
+                      "id": 6,
+                      "name": "FTE",
+                      "color": "",
+                      "icon": ""
+                    },
+                    "position": 6,
+                    "gold_medals": 6,
+                    "silver_medals": 6,
+                    "bronze_medals": 6,
+                    "points": 6
+                  }
+                ]
+              },
+              "name": "Futsal",
+              "modality": "Equipo Masculino"
+            },
+            "faculty": {
+              "id": 3,
+              "name": "Facultad 3",
+              "color": "",
+              "icon": ""
+            },
+            "position": 3
+          },
+          {
+            "id": 4,
+            "sport": {
+              "id": 1,
+              "mella_game": {
+                "id": 1,
+                "year": "2021",
+                "faculties": [
+                  {
+                    "id": 1,
+                    "name": "Facultad 1",
+                    "color": "",
+                    "icon": ""
+                  },
+                  {
+                    "id": 2,
+                    "name": "Facultad 2",
+                    "color": "",
+                    "icon": ""
+                  },
+                  {
+                    "id": 3,
+                    "name": "Facultad 3",
+                    "color": "",
+                    "icon": ""
+                  },
+                  {
+                    "id": 4,
+                    "name": "Facultad 4",
+                    "color": "",
+                    "icon": ""
+                  },
+                  {
+                    "id": 5,
+                    "name": "CITEC",
+                    "color": "",
+                    "icon": ""
+                  },
+                  {
+                    "id": 6,
+                    "name": "FTE",
+                    "color": "",
+                    "icon": ""
+                  }
+                ],
+                "results": [
+                  {
+                    "id": 1,
+                    "mella_game": {
+                      "id": 1,
+                      "year": "2021"
+                    },
+                    "faculty": {
+                      "id": 1,
+                      "name": "Facultad 1",
+                      "color": "",
+                      "icon": ""
+                    },
+                    "position": 1,
+                    "gold_medals": 1,
+                    "silver_medals": 1,
+                    "bronze_medals": 1,
+                    "points": 1
+                  }, {
+                    "id": 2,
+                    "mella_game": {
+                      "id": 1,
+                      "year": "2021"
+                    },
+                    "faculty": {
+                      "id": 2,
+                      "name": "Facultad 2",
+                      "color": "",
+                      "icon": ""
+                    },
+                    "position": 2,
+                    "gold_medals": 2,
+                    "silver_medals": 2,
+                    "bronze_medals": 2,
+                    "points": 2
+                  }, {
+                    "id": 3,
+                    "mella_game": {
+                      "id": 1,
+                      "year": "2021"
+                    },
+                    "faculty": {
+                      "id": 3,
+                      "name": "Facultad 3",
+                      "color": "",
+                      "icon": ""
+                    },
+                    "position": 3,
+                    "gold_medals": 3,
+                    "silver_medals": 3,
+                    "bronze_medals": 3,
+                    "points": 3
+                  }, {
+                    "id": 4,
+                    "mella_game": {
+                      "id": 1,
+                      "year": "2021"
+                    },
+                    "faculty": {
+                      "id": 4,
+                      "name": "Facultad 4",
+                      "color": "",
+                      "icon": ""
+                    },
+                    "position": 4,
+                    "gold_medals": 4,
+                    "silver_medals": 4,
+                    "bronze_medals": 4,
+                    "points": 4
+                  }, {
+                    "id": 5,
+                    "mella_game": {
+                      "id": 1,
+                      "year": "2021"
+                    },
+                    "faculty": {
+                      "id": 5,
+                      "name": "CITEC",
+                      "color": "",
+                      "icon": ""
+                    },
+                    "position": 5,
+                    "gold_medals": 5,
+                    "silver_medals": 5,
+                    "bronze_medals": 5,
+                    "points": 5
+                  }, {
+                    "id": 6,
+                    "mella_game": {
+                      "id": 1,
+                      "year": "2021"
+                    },
+                    "faculty": {
+                      "id": 6,
+                      "name": "FTE",
+                      "color": "",
+                      "icon": ""
+                    },
+                    "position": 6,
+                    "gold_medals": 6,
+                    "silver_medals": 6,
+                    "bronze_medals": 6,
+                    "points": 6
+                  }
+                ]
+              },
+              "name": "Futsal",
+              "modality": "Equipo Masculino"
+            },
+            "faculty": {
+              "id": 4,
+              "name": "Facultad 4",
+              "color": "",
+              "icon": ""
+            },
+            "position": 4
+          },
+          {
+            "id": 5,
+            "sport": {
+              "id": 1,
+              "mella_game": {
+                "id": 1,
+                "year": "2021",
+                "faculties": [
+                  {
+                    "id": 1,
+                    "name": "Facultad 1",
+                    "color": "",
+                    "icon": ""
+                  },
+                  {
+                    "id": 2,
+                    "name": "Facultad 2",
+                    "color": "",
+                    "icon": ""
+                  },
+                  {
+                    "id": 3,
+                    "name": "Facultad 3",
+                    "color": "",
+                    "icon": ""
+                  },
+                  {
+                    "id": 4,
+                    "name": "Facultad 4",
+                    "color": "",
+                    "icon": ""
+                  },
+                  {
+                    "id": 5,
+                    "name": "CITEC",
+                    "color": "",
+                    "icon": ""
+                  },
+                  {
+                    "id": 6,
+                    "name": "FTE",
+                    "color": "",
+                    "icon": ""
+                  }
+                ],
+                "results": [
+                  {
+                    "id": 1,
+                    "mella_game": {
+                      "id": 1,
+                      "year": "2021"
+                    },
+                    "faculty": {
+                      "id": 1,
+                      "name": "Facultad 1",
+                      "color": "",
+                      "icon": ""
+                    },
+                    "position": 1,
+                    "gold_medals": 1,
+                    "silver_medals": 1,
+                    "bronze_medals": 1,
+                    "points": 1
+                  }, {
+                    "id": 2,
+                    "mella_game": {
+                      "id": 1,
+                      "year": "2021"
+                    },
+                    "faculty": {
+                      "id": 2,
+                      "name": "Facultad 2",
+                      "color": "",
+                      "icon": ""
+                    },
+                    "position": 2,
+                    "gold_medals": 2,
+                    "silver_medals": 2,
+                    "bronze_medals": 2,
+                    "points": 2
+                  }, {
+                    "id": 3,
+                    "mella_game": {
+                      "id": 1,
+                      "year": "2021"
+                    },
+                    "faculty": {
+                      "id": 3,
+                      "name": "Facultad 3",
+                      "color": "",
+                      "icon": ""
+                    },
+                    "position": 3,
+                    "gold_medals": 3,
+                    "silver_medals": 3,
+                    "bronze_medals": 3,
+                    "points": 3
+                  }, {
+                    "id": 4,
+                    "mella_game": {
+                      "id": 1,
+                      "year": "2021"
+                    },
+                    "faculty": {
+                      "id": 4,
+                      "name": "Facultad 4",
+                      "color": "",
+                      "icon": ""
+                    },
+                    "position": 4,
+                    "gold_medals": 4,
+                    "silver_medals": 4,
+                    "bronze_medals": 4,
+                    "points": 4
+                  }, {
+                    "id": 5,
+                    "mella_game": {
+                      "id": 1,
+                      "year": "2021"
+                    },
+                    "faculty": {
+                      "id": 5,
+                      "name": "CITEC",
+                      "color": "",
+                      "icon": ""
+                    },
+                    "position": 5,
+                    "gold_medals": 5,
+                    "silver_medals": 5,
+                    "bronze_medals": 5,
+                    "points": 5
+                  }, {
+                    "id": 6,
+                    "mella_game": {
+                      "id": 1,
+                      "year": "2021"
+                    },
+                    "faculty": {
+                      "id": 6,
+                      "name": "FTE",
+                      "color": "",
+                      "icon": ""
+                    },
+                    "position": 6,
+                    "gold_medals": 6,
+                    "silver_medals": 6,
+                    "bronze_medals": 6,
+                    "points": 6
+                  }
+                ]
+              },
+              "name": "Futsal",
+              "modality": "Equipo Masculino"
+            },
+            "faculty": {
+              "id": 5,
+              "name": "CITEC",
+              "color": "",
+              "icon": ""
+            },
+            "position": 5
+          },
+          {
+            "id": 6,
+            "sport": {
+              "id": 1,
+              "mella_game": {
+                "id": 1,
+                "year": "2021",
+                "faculties": [
+                  {
+                    "id": 1,
+                    "name": "Facultad 1",
+                    "color": "",
+                    "icon": ""
+                  },
+                  {
+                    "id": 2,
+                    "name": "Facultad 2",
+                    "color": "",
+                    "icon": ""
+                  },
+                  {
+                    "id": 3,
+                    "name": "Facultad 3",
+                    "color": "",
+                    "icon": ""
+                  },
+                  {
+                    "id": 4,
+                    "name": "Facultad 4",
+                    "color": "",
+                    "icon": ""
+                  },
+                  {
+                    "id": 5,
+                    "name": "CITEC",
+                    "color": "",
+                    "icon": ""
+                  },
+                  {
+                    "id": 6,
+                    "name": "FTE",
+                    "color": "",
+                    "icon": ""
+                  }
+                ],
+                "results": [
+                  {
+                    "id": 1,
+                    "mella_game": {
+                      "id": 1,
+                      "year": "2021"
+                    },
+                    "faculty": {
+                      "id": 1,
+                      "name": "Facultad 1",
+                      "color": "",
+                      "icon": ""
+                    },
+                    "position": 1,
+                    "gold_medals": 1,
+                    "silver_medals": 1,
+                    "bronze_medals": 1,
+                    "points": 1
+                  }, {
+                    "id": 2,
+                    "mella_game": {
+                      "id": 1,
+                      "year": "2021"
+                    },
+                    "faculty": {
+                      "id": 2,
+                      "name": "Facultad 2",
+                      "color": "",
+                      "icon": ""
+                    },
+                    "position": 2,
+                    "gold_medals": 2,
+                    "silver_medals": 2,
+                    "bronze_medals": 2,
+                    "points": 2
+                  }, {
+                    "id": 3,
+                    "mella_game": {
+                      "id": 1,
+                      "year": "2021"
+                    },
+                    "faculty": {
+                      "id": 3,
+                      "name": "Facultad 3",
+                      "color": "",
+                      "icon": ""
+                    },
+                    "position": 3,
+                    "gold_medals": 3,
+                    "silver_medals": 3,
+                    "bronze_medals": 3,
+                    "points": 3
+                  }, {
+                    "id": 4,
+                    "mella_game": {
+                      "id": 1,
+                      "year": "2021"
+                    },
+                    "faculty": {
+                      "id": 4,
+                      "name": "Facultad 4",
+                      "color": "",
+                      "icon": ""
+                    },
+                    "position": 4,
+                    "gold_medals": 4,
+                    "silver_medals": 4,
+                    "bronze_medals": 4,
+                    "points": 4
+                  }, {
+                    "id": 5,
+                    "mella_game": {
+                      "id": 1,
+                      "year": "2021"
+                    },
+                    "faculty": {
+                      "id": 5,
+                      "name": "CITEC",
+                      "color": "",
+                      "icon": ""
+                    },
+                    "position": 5,
+                    "gold_medals": 5,
+                    "silver_medals": 5,
+                    "bronze_medals": 5,
+                    "points": 5
+                  }, {
+                    "id": 6,
+                    "mella_game": {
+                      "id": 1,
+                      "year": "2021"
+                    },
+                    "faculty": {
+                      "id": 6,
+                      "name": "FTE",
+                      "color": "",
+                      "icon": ""
+                    },
+                    "position": 6,
+                    "gold_medals": 6,
+                    "silver_medals": 6,
+                    "bronze_medals": 6,
+                    "points": 6
+                  }
+                ]
+              },
+              "name": "Futsal",
+              "modality": "Equipo Masculino"
+            },
+            "faculty": {
+              "id": 6,
+              "name": "FTE",
+              "color": "",
+              "icon": ""
+            },
+            "position": 6
+          }
+        ]
+      },
+      "name": "Jornada 1",
+      "place": "Canchas Abajo",
+      "date_time": "Sun Jan 01 2023 07:00"
+    }
+  ]
+}
